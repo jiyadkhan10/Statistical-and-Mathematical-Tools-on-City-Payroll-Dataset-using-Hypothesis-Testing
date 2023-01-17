@@ -17,8 +17,8 @@ You are required to use the attached City Payroll Dataset. There are many empty 
 Question 1. Do the employees working as Police Officer-II have a better chance of getting Temporary Bonus Pay? <br />
 Question 2. Employees who get Permanent Bonus Pay are most likely to be from Public Works-Sanitation Department? <br />
 Question 3. Do the employees working in Water and Power (DWP) Department have a better chance of being employed overtime? <br />
-Question 4. In 2014, employees of Recreation and Parks Department were complaining that they have been denied the Longevity Bonus Pay. Confirm their complaint from the given dataset. <br />
-Question 5. Senior Clerk Typist from Harbor (Port of LA) Department has been telling Senior Clerk Typist of Water and Power (DWP) Department that they have more Average Health Cost than them. Accept or Reject this claim according to the dataset given. <br />
+Question 4. In 2014, employees of Recreation and Parks Department were complaining that they have been denied the Longevity Bonus Pay. Confirm their complaint from the             given dataset. <br />
+Question 5. Senior Clerk Typist from Harbor (Port of LA) Department has been telling Senior Clerk Typist of Water and Power (DWP) Department that they have more                   Average Health Cost than them. Accept or Reject this claim according to the dataset given. <br />
 
 # Languages
 
